@@ -169,6 +169,7 @@ Author:
 - [Alive0103 王越洋22009200894](https://github.com/Alive0103) 
 - [Aran-hazel 付晗22009200800](https://github.com/Aran-hazel)
 - [Gaga3044 许晓漫22009201349](https://github.com/Gaga3044)
+- [Jr020718 李佳瑞22009200032](https://github.com/Jr020718)
 ## 许可证
 
 本项目采用 MIT 许可证，详情请参见 LICENSE 文件。
